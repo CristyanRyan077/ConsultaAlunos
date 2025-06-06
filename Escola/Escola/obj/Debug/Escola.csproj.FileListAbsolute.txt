@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\bin\Debug\Escola.exe.config
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.frmControleDeAlunos.resources
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.Properties.Resources.resources
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\aluno\Desktop\Cristyan\C#\Escola\Escola\obj\Debug\Escola.pdb
